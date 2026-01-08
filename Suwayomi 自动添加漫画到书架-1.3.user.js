@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  在Suwayomi移动端模拟长按漫画条目，自动添加到书架（支持滚动加载）
-// @author       You
-// @match        http://192.168.2.137:4567/*
+// @author       leession@gmail.com
+// @match        http://yourdomainip:4567/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=localhost
 // @grant        none
 // ==/UserScript==
